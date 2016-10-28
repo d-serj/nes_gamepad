@@ -118,7 +118,6 @@ void emulateKeyboard() {
       else 
         {
           VKey.keyRelease(KeyEvent.VK_D);
-
         }
     }
 }
